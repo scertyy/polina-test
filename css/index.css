@@ -1,0 +1,38 @@
+h1 {
+    color: red;
+    font-size: 30px;
+}
+
+h2 {
+    color: rgb(165, 253, 253);
+    font-size: 50px;
+}
+h6 {
+    color: green; 
+    font-size: 40px;
+}
+
+img {
+    width: 100px;
+    height: 100%;
+}
+h6 > span {
+    color: blueviolet;
+    font-size: 60px;
+
+}
+
+.special_h6 {
+    color: darkgoldenrod
+}
+.special_h6 span {
+    color: yellow;
+}
+
+/* div {
+    width: 200px;
+    height: 200px;
+    background: url(../images/favicon.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+} */
